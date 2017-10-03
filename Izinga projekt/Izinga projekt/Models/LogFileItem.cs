@@ -15,7 +15,7 @@ namespace IzingaProjekt.Models
         public string Accommodation { get; set; }
         public bool Unsubscribed { get; set; }
 
-        public LogFileItem()
+        //public LogFileItem()
         { }
     }
 }
